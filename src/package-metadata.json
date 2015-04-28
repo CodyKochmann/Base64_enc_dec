@@ -1,0 +1,11 @@
+{
+  "description": "encode and decode the current text to and from base64",
+  "platforms": [
+    "*"
+  ],
+  "dependencies": [],
+  "sublime_text": ">=3000",
+  "url": "https://cody.pm/Base64_enc_dec/",
+  "version": "1.0",
+  "author":"Cody L. Kochmann"
+}
