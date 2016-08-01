@@ -5,7 +5,7 @@
   ],
   "dependencies": [],
   "sublime_text": ">=3000",
-  "url": "https://cody.pm/Base64_enc_dec/",
+  "url": "https://github.com/CodyKochmann/base64_encode_decode",
   "version": "1.0",
   "author":"Cody L. Kochmann"
 }
