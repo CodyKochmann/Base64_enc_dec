@@ -1,5 +1,5 @@
 # Sublime Text plugin created to encode/decode the current text to/from base64
-# Name: Base64_enc_dec.py
+# Name: Base64_encode_decode.py
 # Author: Cody L. Kochmann
 # Date: Tue Apr 28 07:51:09 PDT 2015
 # Version: 1.0
