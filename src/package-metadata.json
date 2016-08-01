@@ -1,11 +1,9 @@
 {
   "description": "encode and decode the current text to and from base64",
-  "platforms": [
-    "*"
-  ],
+  "platforms": ["osx", "linux"],
   "dependencies": [],
   "sublime_text": ">=3000",
   "url": "https://github.com/CodyKochmann/base64_encode_decode",
-  "version": "1.0",
+  "version": "1.0.1",
   "author":"Cody L. Kochmann"
 }
